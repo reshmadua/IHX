@@ -1,2 +1,2 @@
 # IHX - Driving Digital Revolution in Indian Healthcare
-IHX is a digital healthcare data platform and exchange infused with AI/ML capabilities delivering solutions to stakeholders in all segments of the healthcare sector.
+This repository includes the notebooks and datasets used in the hands-on Statistical Analysis sessions at IHX.  
